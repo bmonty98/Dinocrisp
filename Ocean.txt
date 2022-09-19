@@ -1,0 +1,13 @@
+{name}
+
+has reached a very deep and large Ocean full of sealife.
+
+your dino must cross it in order to get to its species mating grounds located in the great plains.
+
+what Gene modification would you like add to ur dino using CRISPR:
+1. edit genes in order for your Dinosaur to produce Oval-shaped blood cells (this is what allows camels to be efficient with water).
+2. insert genes from a Crocodile that allow ample muscle growth to its tail in order to make it useful for swimming.
+3. insert a gene from sea coral that allows your Dino to glow red in light.
+4. insert a gene that allows the Dinosaurs skin to be translucent.
+(to pick an option please type a number 1 to 4): 
+

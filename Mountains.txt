@@ -1,0 +1,18 @@
+You have wandered into the harsh and barren Snowy Mountains.
+
+This is really bad for...
+
+{name}
+
+because sense they are a dinosaur, meaning a reptile, they are cold blooded,
+meaning they are active in warm climates.
+at their current state,
+{name} 
+will surely not survive the journey through the lengthy, cold mountains.
+
+What gene additions will you choose using CRISPR:
+1. insert a gene from the golden poison frog that allows your dino to produce Batrachotoxin (BTX) making it poisonous to the touch.
+2. edit genes to produce greater amounts of vitamin D for stronger bones (plus 5 strength).
+3. insert a gene from sea coral that allows your Dino to glow red in light.
+4. Insert a gene from a Ichthyosaur that turns your Dino warm - blooded and allow it to produce blubber and retain heat better.
+(to pick an option please type a number 1 to 4): 

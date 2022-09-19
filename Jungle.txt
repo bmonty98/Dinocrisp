@@ -1,0 +1,18 @@
+ You have wandered into a Wet and Dangerous Jungle; 
+as your Dino
+
+{name}
+wanders through the Jungle, you feel a rumbling....
+THUMP.... THUMP...... THUMP!
+you quickly hide under cliff overhang covered with foliage.
+oh no....
+
+its a big Tyrannosaurus (stregth 50) !!!!
+and it saw you run into the overhang.
+
+What gene additions will you choose using CRISPR:
+1. insert a gene from the golden poison frog that allows your dino to produce Batrachotoxin (BTX) making it poisonous to the touch.
+2. edit genes to produce greater amounts of vitamin D for stronger bones (plus 5 strength).
+3. insert a gene from sea coral that allows your Dino to glow red in light.
+4. insert a gene that allows the Dinosaurs skin to be translucent.
+(to pick an option please type a number 1 to 4): 

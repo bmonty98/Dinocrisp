@@ -1,0 +1,13 @@
+ Welcome
+to the HOT & DRY Desert.
+Your dinosaur just drank the last water left in its watering hole.
+Without water
+
+{name}
+will surely die; and the next watering hole is miles away.
+What gene additions will you choose using CRISPR:
+1. edit genes in order for your Dinosaur to produce Oval-shaped blood cells (this is what allows camels to be efficient with water).
+2. edit genes to produce greater amounts of vitamin D for stronger bones (plus 5 strength).
+3. insert a gene from sea coral that allows your Dino to glow red in light.
+4. insert a gene that allows the Dinosaurs skin to be translucent.
+(to pick an option please type a number 1 to 4): 

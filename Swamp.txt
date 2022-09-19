@@ -1,0 +1,13 @@
+{name}
+has reached the humid, and stinky Swamp.
+
+this area is full of disease especially with regards to masquitos that carry the malaria virus.
+if your dino gets bitten and contracts this virus it will surely parish.
+
+what Gene modification would you like add to ur dino using CRISPR:
+1. edit genes in order for your Dinosaur to produce Oval-shaped blood cells (this is what allows camels to be efficient with water).
+2. insert genes that allow your dino's immune system to emmulate one of a Bat; which makes it immune to many different types of illnesses.
+3. insert a gene from sea coral that allows your Dino to glow red in light.
+4. insert a gene that allows the Dinosaurs skin to be translucent.
+(to pick an option please type a number 1 to 4): 
+
